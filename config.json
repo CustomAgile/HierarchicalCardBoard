@@ -1,0 +1,13 @@
+{
+    "name": "HierarchicalCardBoard",
+    "className": "Hackathon.HierarchicalCardBoard",
+    "sdk": "2.0p5",
+    "javascript": [
+        // "ArtifactHolder.js",
+        "PortfolioHierarchy.js",
+        "App.js"
+    ],
+    "css": [
+        "app.css"
+    ]
+}
